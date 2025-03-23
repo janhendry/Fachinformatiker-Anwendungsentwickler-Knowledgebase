@@ -3,6 +3,7 @@
 - Zwei uebereinstimmende Willenserklärungen
 
 ### Inhalt eines Kaufvertrags
+
 - Art, beschaffenheit und Güte der Ware
 - Menge der Ware
 - Preis der Ware

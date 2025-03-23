@@ -1,10 +1,8 @@
-# Preis Mengen Diagramm
+## Preis Mengen Diagramm
 
 Angebots- und Nachfragekurven sind ein wichtiges Analysewerkzeug. Die Kurven geben den Zusammenhang zwischen Preisen und Mengen an. Die Steigung der Kurven zeigt an, wie Angebot und Nachfrage auf Preisänderungen reagieren.
 
-![alt text](src/Gleichgewichtspreis.svg.png)
-
-## Grundkonzepte
+### Grundkonzepte
 
 - **Preis-Mengen-Diagramm**: Visualisiert den Zusammenhang zwischen Preis und Menge.
 - **Nachfragekurve**: Zeigt, wie die nachgefragte Menge eines Gutes vom Preis abhängt.

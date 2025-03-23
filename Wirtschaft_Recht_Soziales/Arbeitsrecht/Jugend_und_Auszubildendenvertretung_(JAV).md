@@ -1,4 +1,5 @@
 # Jugend- und Auszubildendenvertretung (JAV)
+
 JAV ist die Interessenvertretung der Jugendlichen und Auszubildenden im Betrieb
 
 - JVA nur dan moeglich wenn es bereits einen Betriebsrat gibt

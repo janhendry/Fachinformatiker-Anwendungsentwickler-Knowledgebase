@@ -4,16 +4,15 @@ Die Kündigung ist eine einseitige empfangsbedürftige Willenserklärung.
 
 - muss schriftlich erfolgen
 
-
 ### Kuendigungsschutz
 
 #### Allgemeiner Kuendigungsschutz
+
 - Bei mehr als 10 Mitarbeitern
 - Mitarbeiter muss mindestens 6 Monate im Betrieb arbeiten
 
-
-
 #### Besonderer Kuendigungsschutz
+
 - Schwerbehinderte
 - Schwangere
 - Personen in Elternzeit

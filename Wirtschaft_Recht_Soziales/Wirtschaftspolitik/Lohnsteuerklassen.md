@@ -6,4 +6,3 @@
 - 4: verheiratete
 - 5: verheiratete, Lebenspartner in Steuerklasse 3
 - 6: Arbeitnehmer, die mehrere Jobs haben, hoeschste Steuerklasse
-

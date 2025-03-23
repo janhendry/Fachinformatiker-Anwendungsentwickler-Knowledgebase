@@ -1,3 +1,4 @@
+### Handelsregister
 
 1. **Handelsregister A**: In diese Abteilung des Handelsregisters werden Einzelunternehmer und Personengesellschaften eingetragen. Dazu gehören:
    - Einzelkaufleute (e.K.)

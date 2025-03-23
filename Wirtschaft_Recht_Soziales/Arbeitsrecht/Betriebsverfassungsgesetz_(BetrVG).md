@@ -1,6 +1,7 @@
-# Betriebsverfassungsgesetz (BetrVG)
+## Betriebsverfassungsgesetz (BetrVG)
 
-## Definition
+### Definition
+
 Das Betriebsverfassungsgesetz regelt die innerbetriebliche Ordnung und die Mitbestimmung von Arbeitnehmer*innen im Betrieb. Gegenüber dem Arbeitgeber werden die Arbeitnehmer*innen durch den Betriebsrat vertreten. Ist ein Kollektivarbeitsrecht.
 
 - mindestens 5 Arbeitnehmern, es muss aber kein Betriebsrat vorhanden sein
@@ -16,11 +17,12 @@ Das Betriebsverfassungsgesetz regelt die innerbetriebliche Ordnung und die Mitbe
 - Das Betriebsverfassungsgesetz ist nur anwendbar, wenn der sachliche und persönliche Geltungsbereich des BetrVG betroffen ist.
 - Wahl alle 4 Jahre, 1 Marz bis 31 Mai
 
+### Betriebsrat
 
-## Betriebsrat
 Der Betriebsrat ist ein Zusammenschluss von Arbeitnehmer*innen, der die Arbeitnehmerinteressen in einem Betrieb gegenüber dem Arbeitgeber vertritt.
 
-## Pflichten des Betriebsrats
+### Pflichten des Betriebsrats
+
 - Maßnahmen, die dem Betrieb und den Arbeitnehmer*innen dienen, beim Arbeitgeber zu beantragen,
 - die Durchsetzung der tatsächlichen Gleichstellung von Frauen und Männern
 - die Eingliederung schwerbehinderter Menschen 
@@ -29,22 +31,24 @@ Der Betriebsrat ist ein Zusammenschluss von Arbeitnehmer*innen, der die Arbeitne
 - die Integration ausländischer Arbeitnehmer*innen im Betrieb zu fördern
 - Maßnahmen, die dem Arbeitsschutz und dem betrieblichen Umweltschutz dienen, zu fördern
 
-## Wirtschaftliche Angelegenheiten
+### Wirtschaftliche Angelegenheiten
+
 - **Informatiosnrecht**: Arbeitgeber muss den Betriebsrat informieren
 - **Beratungsrecht**: Arbeitgeber und der Betriebsrat müssen die Angelegenheiten gemeinsam erörtern
-    - Standortvwerlegung
-    - Produktionsverlagerung
-    - Investitionen
+  - Standortvwerlegung
+  - Produktionsverlagerung
+  - Investitionen
 
 ### Personelle Angelegenheiten (Zustimmungverweigerungsrechte)
+
 Hier kann der Betriebsrat seine Zustimmung verweigern, wenn er der Meinung ist, dass die Maßnahme gegen Gesetze, Tarifverträge oder Betriebsvereinbarungen verstößt. Wenn der Betriebsrat seine Zustimmung verweigert, muss der Arbeitgeber beim Arbeitsgericht die Zustimmung ersetzen lassen.
 
-    - Kuendigung
-    - Einstellung
-    - Versetzung
-
+- Kuendigung
+- Einstellung
+- Versetzung
 
 ### Soziale Angelegenheiten (Mitbestimmungsrechte)
+
 - Arbeitszeit
 - Pausenregelung
 - Urlaubsregelung
@@ -54,13 +58,14 @@ Hier kann der Betriebsrat seine Zustimmung verweigern, wenn er der Meinung ist, 
 Betriebtsrat muss bei diesen Angelegenheiten zustimmen. Ohne Zustimmung des Betriebsrats kann der Arbeitgeber die Regelung nicht durchsetzen. Einigen sie sich nicht. Wird eine Einigungsstelle eingerichtet. Diese besteht aus einem unparteiischen Vorsitzenden und vertreter des Arbeitgebers und des Betriebsrats.
 
 ## Betriebsvereinbarung
+
 Eine Betriebsvereinbarung ist ein Vertrag zwischen dem Arbeitgeber und dem Betriebsrat, in dem die Rechte und Pflichten der Arbeitnehmer*innen und des Arbeitgebers geregelt werden. Sie kann Regelungen zu Arbeitszeit, Urlaub, Lohn, Kündigungsschutz, Arbeitsbedingungen, etc. enthalten.
 
 ## Betriebsversammlung
+
 - Alle 1/4 Jahr
 - Taetigkeitsbericht des Betriebsrats an die Arbeitnehmer
 - Arbeitgeber hat Rederecht und Teilnahmerecht
-
 
 ## Aufgaben des Betriebsrats
 
@@ -74,24 +79,26 @@ Personen, denen besonderer Schutz zugutekommen muss, sollen durch den Betriebsra
  Eine weitere Aufgabe, die dem Betriebsrat zukommt, ist die Förderung der Gleichstellung von Frauen und Männern im Betrieb. Zusätzlich muss die Vereinbarkeit von Familie und Erwerbstätigkeit gefördert werden.
 
 ### Unanwendbar ist das Betriebsverfassungsgesetz bei:
+
 - Kleinstbetrieben, da dort weniger als fünf ständige wahlberechtigte Arbeitnehmer*innen beschäftigt sind
 - Betrieben eines Trägers des öffentlichen Rechts, da sie dem Personalvertretungsrecht unterstehen
 - Betrieben von Religionsgemeinschaften,
 
-
 ## Betriebsrat Mitglied
 
 ### Rechte des Betriebsratsmitglieds
+
 - Recht auf Freistellung
 - Recht auf Kuendigungsschutz
 
-
-
 ## Individualarbeitsrecht
+
 ### Definition
+
 Das Individualarbeitsrecht regelt die individuelle Beziehung zwischen Arbeitnehmer*innen und Arbeitgeber*innen.
 
 ## Kollektivarbeitsrecht
 
 ### Definition
+
 Das Kollektivarbeitsrecht regelt die rechtlichen Beziehungen zwischen den Gewerkschaften und den Arbeitgeber*innen sowie zwischen den Betriebsräten und Arbeitgeber*innen.
